@@ -100,8 +100,6 @@ Cada deber semanal o proyecto bimestral tendrá un repositorio propio, para entr
 1. Hacer commit de todos los cambios `git commit -m "un comentario descriptivo de los cambios"`.
 1. Subir los cambios a GitHub. `git push origin master`
 
-Se dará la retroalimentación en el pull request, y también podrán realizar preguntas a través del mismo.
-
 ### Requisitos
 
 Esto se aplica también a la vida real:
