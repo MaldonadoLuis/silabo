@@ -82,22 +82,23 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
   * Git - hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
   * Fundamentos de PHP Capítulo 01 (45 min aprox) **Entregar los ejercicios realizados en los videos**
 
+### Deberes
+* Acceder al deber [Fundamnetos de PHP 01](https://classroom.github.com/assignment-invitations/50974519acb9467f2e4039a149aad9d2)
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
-Todas las tareas serán listadas en los [Contenidos del Curso](#contenidos-del-curso).
+Todas las tareas serán listadas en el [Calendario del Curso](#calendario).
 
 Todos los deberes deberán ser entregados **únicamente** vía GitHub. Para utilizar GitHub Desktop puede ver los videos del capítulo 5 del curso de Git que se les compartió la primera clase. También pueden leer [estas instrucciones](https://help.github.com/desktop/guides/contributing/) de la documentación oficial de GitHub.
 
 Cada deber semanal o proyecto bimestral tendrá un repositorio propio, para entregar los deberes los estudiantes deben seguir estos pasos:
 
-1. Hacer Fork del repositorio para el deber/proyecto se estará publicado en [github.com/EPN-ANP-2016A](https://github.com/EPN-ANP-2016A).
+1. Hacer clic en el link publicado en el calendario y aceptar la invitación al deber. Esto creará un nuevo repositorio para el estudiante.
 1. Clonar el repositorio a su computadora.
-1. Modicar los archivos necesarios para completar la solución.
-1. Asegurarse de hacer commit de todo el código `git commit -m "comnetario descriptivo del commit"`.
-1. Subir los cambios a GitHub `git push origin master`.
-1. [Crear un pull request](https://help.github.com/articles/creating-a-pull-request/) en el repositorio original. La fecha límite para todos los deberes es hasta el inicio de la siguiente clase, a menos que se indique lo contrario.
-1. Pueden continuar subiendo cambios y mejoras hasta la fecha límite (asegurarse de incluir un comentario descriptivo de los cambios realizados en cada commit).
+1. Hacer los cambios necesarios en los archivos para completar la solución.
+1. Hacer commit de todos los cambios `git commit -m "un comentario descriptivo de los cambios"`.
+1. Subir los cambios a GitHub. `git push origin master`
 
 Se dará la retroalimentación en el pull request, y también podrán realizar preguntas a través del mismo.
 
