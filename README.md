@@ -47,7 +47,7 @@ El curso estará divido en 3 partes principales: Introducción a PHP y MySQL, De
           * Expresiones y control del flujo en PHP
           * Funciones y objetos
           * Arreglos
-         * Cookies sesiones y autenticaciones
+          * Cookies sesiones y autenticaciones
 * **Capítulo 3: MySQL**
       * Introducción a MySQL
       * Acceso via la línea de comandos y acceso via phpMyAdmin
@@ -75,13 +75,13 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 
 ## Calendario de clases
 
-### Clase 1
+  ### Clase 1
   Introducción a la materia y explicación de la metodología de trabajo.
 
   ### Temas para la siguiente clase
-    * Git - hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
-    * Fundamentos de PHP Capítulo 01 (45 min aprox)
-    
+      * Git - hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
+      * Fundamentos de PHP Capítulo 01 (45 min aprox)
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
