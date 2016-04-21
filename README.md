@@ -75,6 +75,8 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 
 ## Calendario de clases
 
+**Todo el material utilizado en las clases se encontrará [aquí](https://github.com/EPN-ANP-2016A/Material-Clases).**
+
 ### Clase 1
   Introducción a la materia y explicación de la metodología de trabajo.
 
