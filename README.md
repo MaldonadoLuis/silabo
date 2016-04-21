@@ -83,7 +83,7 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
     * Fundamentos de PHP Capítulo 01 (45 min aprox) **Entregar los ejercicios realizados en los videos**
 
   * **Deberes**
-    * Acceder al deber [Fundamnetos de PHP 01](https://classroom.github.com/assignment-invitations/50974519acb9467f2e4039a149aad9d2)
+    * Acceder al deber [Fundamentos de PHP 01](https://classroom.github.com/assignment-invitations/50974519acb9467f2e4039a149aad9d2)
 
 ## Deberes/Proyectos
 
