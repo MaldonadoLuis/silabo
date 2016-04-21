@@ -79,8 +79,8 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
   Introducción a la materia y explicación de la metodología de trabajo.
 
 ### Temas para la siguiente clase
-      * Git - hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
-      * Fundamentos de PHP Capítulo 01 (45 min aprox) **Entregar los ejercicios realizados en los videos**
+  * Git - hasta el Capítulo 4 (60 min aprox) - Si desean aprender la interfaz gráfica de Github pueden ver el Capítulo 5.
+  * Fundamentos de PHP Capítulo 01 (45 min aprox) **Entregar los ejercicios realizados en los videos**
 
 ## Deberes/Proyectos
 
