@@ -130,10 +130,10 @@ Esto se aplica también a la vida real:
 
 ## Calificaciones
 
-Preguntas peerwise            10%
-Deberes                               30%
-Proyecto                               40%
-Examen bimestral práctico  20%
+* Preguntas PeerWise           10%
+* Deberes                               30%
+* Proyecto                               40%
+* Examen bimestral práctico  20%
 
 ## Código de Ética
 
