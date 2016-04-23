@@ -72,6 +72,12 @@ El curso estará divido en 3 partes principales: Introducción a PHP y MySQL, De
 
 Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipped Classroom**](https://www.youtube.com/watch?v=ePOnn0H9GMY). Será necesario ver cada semana los videos para poder resolver los ejercicios presentados en el aula.
 
+## Comunicación
+**Para asegurar una respuesta rápida a sus preguntas, utilizaremos SLACK, recuerden que estamos utilizando el aprendizaje colaborativo por lo tanto cualquiera de ustedes puede responder las dudas de sus compañeros.**
+
+Pueden acceder al canal de comunicación en este link: [anp-esfot.slack.com/](https://anp-esfot.slack.com/)
+
+En la parte izquierda de Slack está la lista de canales, para tener una mejor organización se crearán canales por cada clase. En este canal  `general` hablaremos de cosas que no estén relacionadas directamente con el tema de una semana en específico.
 
 ## Calendario de clases
 
@@ -97,7 +103,7 @@ Todos los deberes deberán ser entregados **únicamente** vía GitHub. Para util
 Cada deber semanal o proyecto bimestral tendrá un repositorio propio, para entregar los deberes los estudiantes deben seguir estos pasos:
 
 1. Hacer clic en el link publicado en el calendario y aceptar la invitación al deber. Esto creará un nuevo repositorio para el estudiante.
-1. Clonar el repositorio a su computadora.
+1. Clonar el repositorio a su computadora.  `git clone URL_REPO`
 1. Hacer los cambios necesarios en los archivos para completar la solución.
 1. Hacer commit de todos los cambios `git commit -m "un comentario descriptivo de los cambios"`.
 1. Subir los cambios a GitHub. `git push origin master`
