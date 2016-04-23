@@ -77,7 +77,7 @@ Para la clase se utilizará la metodología de la [**Clase Invertida** o **Flipp
 
 Pueden acceder al canal de comunicación en este link: [anp-esfot.slack.com/](https://anp-esfot.slack.com/)
 
-En la parte izquierda de Slack está la lista de canales, para tener una mejor organización se crearán canales por cada clase. En este canal  `general` hablaremos de cosas que no estén relacionadas directamente con el tema de una semana en específico.
+En la parte izquierda de Slack está la lista de canales, para tener una mejor organización se crearán canales por cada clase. En este canal  **general** hablaremos de cosas que no estén relacionadas directamente con el tema de una semana en específico.
 
 ## Calendario de clases
 
